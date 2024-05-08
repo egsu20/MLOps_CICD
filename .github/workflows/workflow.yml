@@ -28,4 +28,4 @@ jobs:
     - name: Execute Jupyter notebook
       run: |
         # Jupyter notebook 실행을 위한 커맨드, 이는 실제 실행 방법에 따라 다를 수 있음
-        jupyter nbconvert --to notebook --execute AutoML_CustomML_flower_classfier_20221220.ipynb.ipynb --output executed_notebook.ipynb
+        jupyter nbconvert --to notebook --execute AutoML_CustomML_flower_classfier_20221220.ipynb --output executed_notebook.ipynb
